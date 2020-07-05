@@ -1,0 +1,33 @@
+header {
+    margin-top: 40px;
+}
+
+.row-content {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid lavender;
+    color:  rgb(70,1,135);;
+}
+
+.card {
+    margin-top: 10px;
+}
+
+ nav, .card-header, .modal-header, .card-footer  {
+    background: rgb(70,1,135);
+    background: linear-gradient(0deg, rgba(70,1,135,1) 0%, rgba(135,0,255,1) 100%);
+    color: floralwhite;
+}
+
+.card-body, .jumbotron, .modal-body {
+    background: rgb(239,222,255);
+    background: linear-gradient(0deg, rgba(239,222,255,1) 0%, rgba(214,168,255,1) 100%);
+    color:  rgb(70,1,135);
+}
+
+.tab-content {
+    border: 1px solid lavender;
+    border-top: 0;
+    padding: 10px;
+}
+
